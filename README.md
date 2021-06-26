@@ -1,6 +1,6 @@
 # Login page reveal animation with css
 
-**Demo:** [Visit this link to see a live demo of the final result](https://dreamy-mcclintock-bad2d5.netlify.app/)
+**Demo:** [Visit this link to see a live demo of the final result](https://dreamy-mcclintock-bad2d5.netlify.app/) \
 In our website we will have 2 sections:
 
 - A login section that has a form and validation function
